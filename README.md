@@ -1,5 +1,6 @@
 # Class-Graphs
 A class of graphs that implements solutions for the next problems:
+
 https://www.infoarena.ro/problema/bellmanford
 https://www.infoarena.ro/problema/sortaret
 https://www.infoarena.ro/problema/ciclueuler
